@@ -10,9 +10,9 @@ public class TesteInsere {
 
      
             Contato contato = new Contato();
-            contato.setNome("Caelum");
-            contato.setEmail("contato@caelum.com.br");
-            contato.setEndereco("R. Vergueiro 3185 cj87");
+            contato.setNome("Sanne");
+            contato.setEmail("contato@sanne.com.br");
+            contato.setEndereco("R. Dos Alfeineiros 4 cj87");
             contato.setDataNascimento(Calendar.getInstance());
 
   
